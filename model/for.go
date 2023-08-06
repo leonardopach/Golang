@@ -1,8 +1,8 @@
-package main
+package model
 
 import "fmt"
 
-func forGo() {
+func ForGo() {
 
 	texto := "palavra"
 	for i := 0; i < len(texto); i++ {

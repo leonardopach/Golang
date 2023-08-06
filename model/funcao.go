@@ -1,4 +1,4 @@
-package main
+package model
 
 import "fmt"
 
@@ -6,7 +6,7 @@ func init() {
 	fmt.Println("Função init")
 }
 
-func main() {
+func funcao() {
 
 	ImprimirMensagem("Hello moto")
 
